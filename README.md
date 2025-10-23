@@ -11,7 +11,7 @@ It recommends movies similar to the one you like — based on the movie's overvi
 ## 🧠 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/movie-recommender.git
+   git clone https://github.com/manyyetone/movie-recommender.git
    cd movie-recommender
 2.Install dependencies:
 
